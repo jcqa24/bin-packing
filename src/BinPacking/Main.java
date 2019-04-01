@@ -5,10 +5,8 @@ import java.util.Random;
 import javax.swing.JTable;
 
 /**
- *
  * @author Quiroz Aguilar Juan Carlos
- * @author Aguirre Mendoza Jessica
- * @author Mendoza Mendoza Yehosuah Eli
+ * @version 1.0.0
  */
 public class Main extends javax.swing.JFrame {
 
@@ -212,7 +210,6 @@ public class Main extends javax.swing.JFrame {
             }
         }
 
-
     }//GEN-LAST:event_btnIniciarActionPerformed
 
     /**
@@ -249,7 +246,6 @@ public class Main extends javax.swing.JFrame {
             }
         });
     }
-
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextArea ConfFinal;

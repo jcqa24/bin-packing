@@ -5,10 +5,8 @@ import java.util.LinkedList;
 import java.util.Random;
 
 /**
- *
  * @author Quiroz Aguilar Juan Carlos
- * @author Aguirre Mendoza Jessica
- * @author Mendoza Mendoza Yehosuah Eli
+ * @version 1.0.0
  */
 public class Controller {
 
