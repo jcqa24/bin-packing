@@ -24,7 +24,7 @@ Juan Carlos Quiroz Aguilar -- Inicio del repositorio
 
 ## Contacto 
 
-Si tienes alguna segerencia, opinion, cambio , reporte de bugs puedes contactarme al correo <jcqa14@gmail.com>
+Si tienes alguna segerencia, opinion, cambio , reporte de bugs puedes contactarme al correo <jcqa24@gmail.com>
 
 ## Guia de contribucion 
  
